@@ -2,7 +2,7 @@
 #define ML 1000
 #define LIMIT 80
 //  Programa que imprima todas las líneas de la entrada que tengan más de 80 caracteres. (por eso tenemos limit 80)
-// nos basamos del código anterior 
+// nos basamos del código anterior la idea es que si la longitud de la línea es mayor a 80, se imprime, de lo contrario no se imprime.
 int main(void) {
     char line[ML];
     int c, i;
