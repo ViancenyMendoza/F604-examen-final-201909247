@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define ML 1000
 //El código elimina los espacios en blanco y las tabulaciones al finalde cada línea de entrada, y que borre las líneas que queden completamente en blanco.
-
+// 
 int main(void) {
     char line [ML];
     int c, i;
