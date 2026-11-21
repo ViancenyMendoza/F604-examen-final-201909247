@@ -6,7 +6,10 @@
 
 ## Cómo compilar y ejecutar
 
+
 ```bash
 mkdir -p bin
 gcc -Wall -o bin/e1 e1.c
 ./bin/e1
+## Estado de los ejercicios
+
