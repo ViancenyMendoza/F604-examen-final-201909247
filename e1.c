@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Pide escribir un nombre e imprime en la pantalla Hola <nombre>
 int main() {
     int val;
 
